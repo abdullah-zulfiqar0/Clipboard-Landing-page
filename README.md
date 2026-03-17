@@ -23,16 +23,20 @@ This project helped me practice responsive layouts and improve my HTML and CSS s
 <img src="./preview.jpg" alt="Project Screenshot">
 
 <hr>
-
 <h2>🔗 Links</h2>
 
 <ul>
- <a href="https://github.com/abdullah-zulfiqar0/Clipboard-Landing-page ">
+  <li>
+    <a href="https://github.com/abdullah-zulfiqar0/Clipboard-Landing-page">
       Repository URL
     </a>
- <a href="https://abdullah-zulfiqar0.github.io/Clipboard-Landing-page/">
-      Live site URL
+  </li>
+  
+  <li>
+    <a href="https://abdullah-zulfiqar0.github.io/Clipboard-Landing-page/">
+      Live Site URL
     </a>
+  </li>
 </ul>
 
 <hr>
