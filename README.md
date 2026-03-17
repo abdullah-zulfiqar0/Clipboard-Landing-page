@@ -87,11 +87,26 @@ I also implemented hover effects to make buttons interactive and improve user ex
 </ul>
 
 <hr>
-
-<h1>👨‍💻 Author</h1>
+<h2>Author</h2>
 
 <ul>
-<li><strong>Name:</strong> Abdullah Zulfiqar</li>
-<li><a href="https://www.frontendmentor.io/profile/yourusername" target="_blank">Frontend Mentor</a></li>
-<li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+  <li><b>Name:</b> Abdullah Zulfiqar</li>
+
+  <li><b>Frontend Mentor:</b> 
+    <a href="https://www.frontendmentor.io/profile/abdullah-zulfiqar0">
+      abdullah-zulfiqar0
+    </a>
+  </li>
+
+  <li><b>GitHub:</b> 
+    <a href="https://github.com/abdullah-zulfiqar0">
+      github.com/abdullah-zulfiqar0
+    </a>
+  </li>
+
+  <li><b>Live Site:</b> 
+    <a href="https://abdullah-zulfiqar0.github.io/advice-generator-app/">
+      advice-generator-app
+    </a>
+  </li>
 </ul>
