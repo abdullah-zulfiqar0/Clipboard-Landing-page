@@ -27,8 +27,8 @@ This project helped me practice responsive layouts and improve my HTML and CSS s
 <h2>🔗 Links</h2>
 
 <ul>
-<li><a href="https://www.frontendmentor.io/solutions" target="_blank">Solution URL</a></li>
-<li><a href="https://your-live-site-url.com" target="_blank">Live Site URL</a></li>
+<li><a href="https://github.com/abdullah-zulfiqar0/Clipboard-Landing-page ">Solution URL</a></li>
+<li><a href="https://abdullah-zulfiqar0.github.io/Clipboard-Landing-page/">Live Site URL</a></li>
 </ul>
 
 <hr>
@@ -105,7 +105,7 @@ I also implemented hover effects to make buttons interactive and improve user ex
   </li>
 
   <li><b>Live Site:</b> 
-    <a href="https://abdullah-zulfiqar0.github.io/advice-generator-app/">
+    <a href="https://abdullah-zulfiqar0.github.io/Clipboard-Landing-page/">
       advice-generator-app
     </a>
   </li>
